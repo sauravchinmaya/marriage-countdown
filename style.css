@@ -37,7 +37,7 @@ ul, li {
 .sticky {
   position: absolute;
   margin-bottom: 0px;
-  height: 174px;
+  height: 164px;
   width: 100%;
   background: #e4d9d8;
   bottom: 0;
@@ -55,7 +55,8 @@ ul, li {
   justify-content: center;
   align-items: center;
   flex-direction: row;
-  font-size: 16px;
+  font-size: 15px;
+  margin-top: -10px;
   font-family: 'Italianno', cursive;
 }
 .counter li {
