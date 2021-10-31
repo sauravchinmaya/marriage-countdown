@@ -46,7 +46,6 @@ ul, li {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  box-shadow: 1px -8px 18px 20px rgb(0 0 0 / 30%), 0 15px 12px rgb(0 0 0 / 22%);
 }
 
 .counter {
