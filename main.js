@@ -43,7 +43,7 @@ const setCounter = (diff) =>{
 
 
 setInterval( () => 
-  setCounter(timeDiffCalc(new Date('2021/12/7 04:10:00'), new Date())), 1000
+  setCounter(timeDiffCalc(new Date('2021/12/7 00:10:00'), new Date())), 1000
 )
 
 
