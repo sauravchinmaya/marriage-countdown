@@ -55,19 +55,19 @@ ul, li {
   justify-content: center;
   align-items: center;
   flex-direction: row;
-  font-size: 16px;
-  margin-top: -8px;
+  font-size: 15px;
   font-family: 'Italianno', cursive;
+  margin-top: 10px;
 }
 .counter li {
-  margin-top: -15px;
+  margin-top: -35px;
   padding: 0 10px;
   color: rgb(252, 47, 81);
   opacity: .9;
 }
 
 .counter li span {
-  margin-top: -40px;
+  margin-top: -35px;
   display: block;
 }
 
