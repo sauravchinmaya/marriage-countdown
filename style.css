@@ -37,7 +37,7 @@ ul, li {
 .sticky {
   position: absolute;
   margin-bottom: 0px;
-  height: 160px;
+  height: 150px;
   width: 100%;
   background: #e4d9d8;
   bottom: 0;
